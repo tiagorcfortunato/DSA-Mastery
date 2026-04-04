@@ -1,10 +1,10 @@
-# 🧠 Data Structures & Algorithms Mastery
+#  Data Structures & Algorithms Mastery
 
 This repository serves as a centralized hub for my solutions to various Data Structures and Algorithms (DSA) problems. It reflects my journey in mastering problem-solving techniques and optimizing computational efficiency.
 
 ---
 
-## 🚀 Overview
+##  Overview
 
 - **Source:** Primarily synchronized from [NeetCode.io](https://neetcode.io/)
 - **Focus:** Array & Hashing, Two Pointers, Sliding Window, Stack, Binary Search, Linked List, Trees, Tries, Backtracking, Graphs, Advanced Graphs, 1D Dynamic Programming, 2D Dynamic Programming, Greedy, Intervals, Math & Geometry, Bit Manipulation.
@@ -53,7 +53,7 @@ Current focus areas and solved problems:
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - **Language:** Python 3.x
 - **Environment:** NeetCode, LeetCode, local testing.
@@ -61,7 +61,7 @@ Current focus areas and solved problems:
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 **Tiago Fortunato**  
 Software Engineer | Berlin, Germany
