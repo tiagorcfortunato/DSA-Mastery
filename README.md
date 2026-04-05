@@ -22,7 +22,7 @@ Solutions are organized by problem name within the `Data Structures & Algorithms
 
 ##  Progress Summary
 
-**20 / 150 problems solved**
+**21 / 150 problems solved**
 
 Current focus areas and solved problems:
 
@@ -44,12 +44,13 @@ Current focus areas and solved problems:
 - ✅ Max Water Container
 - ✅ Trapping Rain Water
 
-### **Sliding Window** (5/6)
+### **Sliding Window** (6/6) ✓
 - ✅ Buy and Sell Crypto
 - ✅ Longest Substring Without Duplicates
 - ✅ Longest Repeating Substring with Replacement
 - ✅ Permutation String
 - ✅ Minimum Window with Characters
+- ✅ Sliding Window Maximum
 
 ### **Other**
 - ✅ Concatenation of Array
